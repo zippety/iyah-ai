@@ -1,1 +1,23 @@
+# iyah.ai · sovereign front door + fleet shortener
+# one voice · one tap · QR-friendly · voice-friendly
+# DJ business cards · Zoom backgrounds · print materials all point here
+
+# ── www → apex (canonical host) ─────────────────────────────────
 https://www.iyah.ai/* https://iyah.ai/:splat 301!
+
+# ── agape-is products ──────────────────────────────────────────
+/w    https://whisper.agapeis.ai/                             301
+/n    https://agapeis.ai/natal/                               301
+
+# ── cathedralstack · operator HQ ───────────────────────────────
+/mc   https://cathedralstack.com/preview/mission-control/     301
+/s    https://cathedralstack.com/                             301
+
+# ── cathedral.black · public doctrine ──────────────────────────
+/c    https://cathedral.black/                                301
+
+# ── civic lane ─────────────────────────────────────────────────
+/m    https://maat.black/                                     301
+
+# ── research + Canadian corp ───────────────────────────────────
+/a    https://agapeai.ca/                                     301
